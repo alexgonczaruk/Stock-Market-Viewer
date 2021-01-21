@@ -1,0 +1,70 @@
+body {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+}
+
+.searchbar {
+    position: relative;
+    top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Titilluim';
+    font-weight: 200;
+    text-align: center;
+    width: 1000px;
+    height: 75px;
+}
+
+.explanation {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.entrybar {
+    border-radius: 2px;
+    padding-left: 10px;
+    border: none;
+    width: 250px;
+    height: 30px;
+    position: relative;
+    bottom: 5px;
+    font-size: 18px;
+}
+
+.searchbutton {
+    background-color: #836de6b6;
+    color: #ffffff;
+    margin-left: 10px;
+    cursor:pointer;
+    border-radius: 2px;
+    border: none;
+    width: 100px;
+    height: 32px;
+    position: relative;
+    bottom: 5px;
+    font-size: 18px;
+}
+
+.titlename {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 50px;
+    color: #ffffff;
+    font-family: 'Titilluim';
+    font-weight: 200;
+    font-size: 36px;
+
+}
+
+.result-messages {
+    font-size: 24px;
+    position: relative;
+    top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Titilluim';
+    text-align: center;
+    color: #ffffff;
+}
